@@ -15,7 +15,7 @@ MonoBehaviour:
   Player:
     Speed: 5
   Obstacle:
-    NumRows: 3
+    NumRows: 6
     NumColumns: 5
     GridCellSize: 20
     Offset: 8
